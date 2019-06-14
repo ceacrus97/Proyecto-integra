@@ -1,0 +1,2 @@
+Esta carpeta contendran las imagenes originales que haya empleado en este proyecto. 
+No se usaran en ninguna parte solo es informativa.
